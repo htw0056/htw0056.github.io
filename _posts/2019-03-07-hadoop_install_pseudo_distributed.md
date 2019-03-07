@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      hadoop_install_pseudo_distributed				# 标题 
-subtitle:   hadoop_install_pseudo_distributed #副标题
+title:      hadoop单机/伪分布式安装				# 标题 
+subtitle:   hadoop单机/伪分布式安装 #副标题
 date:       2019-03-07 				# 时间
 author:     htw0056 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
